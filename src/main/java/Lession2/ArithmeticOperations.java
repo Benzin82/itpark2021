@@ -1,3 +1,5 @@
+package Lession2;
+
 public class ArithmeticOperations<result> {
 
     public static void main(String[] args){

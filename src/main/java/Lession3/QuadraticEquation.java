@@ -25,7 +25,7 @@ public class QuadraticEquation {
             System.out.println("X1=X2 ="+ x1);
         }
         else if(D < 0){
-            System.out.println("решение не имеет корней");
+            System.out.println("решение уравнения- это комплексные велечины");
         }
         if (D > 0){
             x1 = (-b + Math.sqrt(D))/2*a;

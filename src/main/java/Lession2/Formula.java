@@ -1,3 +1,5 @@
+package Lession2;
+
 public class Formula
 {
      public static void main(String[] args) {
