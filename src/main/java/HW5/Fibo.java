@@ -14,10 +14,10 @@ public class Fibo {
             int a = 0;
             int b = 1;
 
-            for (int i = 2; i <= n; ++i) {
-                int next = a + b;
+            for (int i = 0; n >= i; ++i) {
+                int c = a + b;
                 a = b;
-                b = next;
+                b = c;
                 System.out.println(b);
             }
         }
